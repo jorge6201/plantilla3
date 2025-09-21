@@ -1,6 +1,6 @@
 ﻿# plantilla3
 
- Esta plantilla incluye frontEnd y backend
+ Esta plantilla incluye frontEnd y backend para una página web con manejo de usuarios.
 
  1- front-End Esta hecho con HTML + CSS + Javascript + axios
  2- back-End esta hecho con FastAPI de Python.
@@ -24,4 +24,5 @@ Tengo conocimientos en HTML + CSS
 Apenas estoy aprendiendo a usar AXIOS FASTapi
 
 Gracias por su ayuda con este proyecto.
+
 
